@@ -1,6 +1,6 @@
 # CakePHP Mandrill Plugin
 
-The **Mandrill** plugin enables CakePHP developers to quickly and easily send mesages via Mandrill API
+The **Mandrill** plugin enables CakePHP developers to quickly and easily send mesages via the Mandrill API.
 
 ## Requirements
 
